@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Bookshelf Open feature.
+ */
+
+include_once 'bookshelf_open.features.inc';
